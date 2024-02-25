@@ -1,4 +1,4 @@
-# Backend_01
+# Resume
 
 \documentclass{resume} % Use the custom resume.cls style
 
